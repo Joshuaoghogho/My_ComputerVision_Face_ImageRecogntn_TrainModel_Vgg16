@@ -1,3 +1,7 @@
+## By leveraging the VGG16 architecture (pre-trained on ImageNet), this project enables accurate and efficient image recognition with a relatively small dataset.
+## The trained model is capable of detecting and classifying faces into predefined classes, making it ideal for real-world applications like identity verification, attendance systems, and security monitoring.
+
+
 # My_ComputerVision_Face_ImageRecogntn_TrainModel_Vgg16 
 ## 🧠 Trained Model
 
